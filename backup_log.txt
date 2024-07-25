@@ -1,0 +1,4 @@
+Conda environment activated: 
+2024-07-25 12:00:32 - Backup successful
+2024-07-25 12:00:32 - Deleted old backup: /path/to/label_studio/backup/port1/2024-07-18
+2024-07-25 12:00:33 - Deleted old backup: /path/to/label_studio/backup/port2/2024-07-18
