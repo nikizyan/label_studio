@@ -1,0 +1,15 @@
+Starting export process for http://YOUR.IP.ADDRESS:port1...
+Fetching projects from: http://YOUR.IP.ADDRESS:port1/api/projects?page=1
+Response status code: 200
+Fetched 3 projects
+
+Exporting project Project_3 from: http://YOUR.IP.ADDRESS:port1/api/projects/39/export
+Exported project Project_3 to /path/to/label_studio/backup/port1/2024-07-25/Project_3-at-2024-07-25-120003.json
+
+Exporting project Project_2 from: http://YOUR.IP.ADDRESS:port1/api/projects/37/export
+Exported project Project_2 to /path/to/label_studio/backup/port1/2024-07-25/Project_2-at-2024-07-25-120004.json
+
+Exporting project Project_1 from: http://YOUR.IP.ADDRESS:port1/api/projects/34/export
+Exported project Project_1 to /path/to/label_studio/backup/port1/2024-07-25/Project_1-at-2024-07-25-120008.json
+
+Export process for http://YOUR.IP.ADDRESS:port1 completed.
