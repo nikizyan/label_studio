@@ -6,3 +6,12 @@
 Notes:
 - My cron config is to backup at 12.oopm, Monday-Friday
 - Please add backup folder /label_studio/backup/port1 and /label_studio/backup/port2
+
+# Duplicate Checker for Comparing the Dataset with the Backup
+
+1. Open "ls_duplicateChecker.py", edit your directories, run the code
+2. Go to Label Studio, import the "cleaned_data.csv"(no annotation/label)
+3. Import again but this time is the backup json file (pre-annotations, with skipped/cancelled tasks)
+
+Notes:
+- Please change read csv/json file based on your dataset
